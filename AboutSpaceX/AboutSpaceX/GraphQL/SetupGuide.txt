@@ -1,0 +1,1 @@
+Setup guide: https://www.apollographql.com/docs/ios/tutorial/codegen-getting-started#step-1-setup
